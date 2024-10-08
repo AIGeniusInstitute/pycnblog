@@ -1,2 +1,2 @@
-gu:
-	./git_commit_ubuntu.sh
+g:
+	./git_commit.sh
